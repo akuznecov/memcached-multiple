@@ -3,8 +3,8 @@
 # chkconfig: - 55 45
 # description:	The memcached daemon is a network memory cache service.
 # processname: memcached
-# config: /etc/sysconfig/memcached
-# pidfile: /var/run/memcached/memcached.pid
+# config: /etc/sysconfig/memcached6
+# pidfile: /var/run/memcached/memcached6.pid
 
 # Standard LSB functions
 #. /lib/lsb/init-functions
